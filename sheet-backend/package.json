@@ -2,7 +2,7 @@
   "name": "sheet-backend",
   "version": "1.0.0",
   "description": "Backend that reads Google Sheets via API key",
-  "main": "server.js",
+  "main": "api/index.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
